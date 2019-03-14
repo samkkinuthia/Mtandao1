@@ -22,7 +22,13 @@ ol {
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
+    
 
+    }
+
+    li {
+      text-align: center;
+      list-style: inside;
     }
 
   ul {
@@ -30,4 +36,8 @@ ol {
     font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
+    list-style: inside;
+  }
+  body {
+    background-color: rgb(135, 142, 145);
   }
